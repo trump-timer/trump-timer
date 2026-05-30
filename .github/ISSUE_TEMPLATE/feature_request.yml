@@ -1,0 +1,19 @@
+name: Feature request
+description: Suggest a tracker, reference page, or usability improvement.
+title: "[Feature]: "
+labels: ["type: feature", "status: needs triage"]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What should Trump Timer improve?
+      description: Describe the tracker, page, or workflow.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why would this help?
+      description: Explain the user value and any source context.
+    validations:
+      required: true

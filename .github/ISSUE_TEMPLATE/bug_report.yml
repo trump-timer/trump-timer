@@ -1,0 +1,24 @@
+name: Bug report
+description: Report a broken page, wrong link, layout issue, or browser problem.
+title: "[Bug]: "
+labels: ["type: bug", "status: needs triage"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      placeholder: https://trumptimer.us/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include expected result and actual result.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome on Android, Safari on iPhone, Edge on Windows
