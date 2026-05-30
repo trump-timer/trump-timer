@@ -10,6 +10,14 @@ Official public repository for [trumptimer.us](https://trumptimer.us). Trump Tim
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
+## Product Preview
+
+![Trump Timer homepage](assets/screenshots/homepage.png)
+
+| Approval rating tracker | Term countdown |
+| --- | --- |
+| ![Trump Timer approval rating tracker](assets/screenshots/approval-rating.png) | ![Trump Timer term countdown](assets/screenshots/term-countdown.png) |
+
 ## Product Focus
 
 - Readers checking the current presidency timer and term-end countdown
