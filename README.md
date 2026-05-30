@@ -1,43 +1,51 @@
+<p align="center">
+  <a href="https://trumptimer.us">
+    <img src="assets/trump-timer-icon.png" alt="Trump Timer logo" width="112" />
+  </a>
+</p>
+
 # Trump Timer
 
-Official public repository for [trumptimer.us](https://trumptimer.us), a public reference site for Trump presidency countdowns, trackers, explainers, and related civic information pages.
+Official public repository for [trumptimer.us](https://trumptimer.us). Trump Timer is a public reference site for Donald Trump's 2025-2029 presidential term, combining live countdowns, trackers, calculators, timelines, and topical explainers.
 
 This repository is the public home for product feedback, issue reports, roadmap notes, support guidance, and community discussion. It does not contain the private production source code for the live website.
 
-Trump Timer is an independent reference website. It is not affiliated with Donald J. Trump, the Trump Organization, any political campaign, or the United States government.
+## Product Focus
 
-## What Trump Timer Provides
+- Readers checking the current presidency timer and term-end countdown
+- Users looking for source-labeled approval polling context
+- People researching speeches, quotes, policy, biography, inauguration, age, and timelines
+- Searchers landing on current-event explainers that need dates, caveats, and sources
 
-- Live 2025-2029 presidential term countdown pages
-- Approval rating and public-interest trackers
-- Reference pages about speeches, quotes, policies, inauguration, and related topics
-- Explainers for recurring public search questions
-- Interactive public-interest pages and simulators
+## Main Workflows
 
-## Public Feedback
+- View a live timer for Donald Trump's presidential term that began January 20, 2025.
+- Check the countdown to the January 20, 2029 term-end date.
+- Review source-labeled approval rating context and methodology caveats.
+- Navigate explainers for policies, speeches, quotes, biography, age, inauguration, and topical searches.
+- Use structured public pages that keep dates and source context visible.
 
-Use GitHub Issues for:
+## What To Open Here
 
-- Broken pages, links, or layout problems
-- Corrections to reference content
-- Source-quality suggestions
-- Feature requests for trackers or explainers
-- Accessibility and mobile usability reports
+- Date, countdown, or term-context corrections
+- Source updates for approval polling, speeches, policies, or topical explainers
+- Navigation problems across tracker, calculator, quote, policy, and biography pages
+- Requests for clearer caveats around political, polling, or current-event claims
 
-Please include the page URL, expected result, actual result, browser, device, and source links when relevant.
+## Repository Boundary
 
-## Roadmap
+- Public issues and discussions are welcome when they improve the live product experience.
+- Do not post private account data, secrets, payment details, uploaded personal media, or sensitive logs.
+- Production application code, provider credentials, billing configuration, and deployment secrets are not published here.
+- Security reports should follow [SECURITY.md](SECURITY.md) instead of public issues.
 
-The public roadmap is tracked in [ROADMAP.md](ROADMAP.md). It focuses on user-facing direction rather than internal implementation details.
+## Official Links
 
-## Useful Links
-
-- Website: https://trumptimer.us
-- Issues: https://github.com/trump-timer/trump-timer/issues
-- Discussions: https://github.com/trump-timer/trump-timer/discussions
+- Website: [trumptimer.us](https://trumptimer.us)
+- Roadmap: [ROADMAP.md](ROADMAP.md)
 - Support: [SUPPORT.md](SUPPORT.md)
 - Security: [SECURITY.md](SECURITY.md)
 
-## Repository Scope
+## Support
 
-This repository is intentionally content-only. Public artifacts may include product notes, feedback templates, support policies, issue triage labels, and brand assets. Production code, infrastructure, secrets, analytics config, and private operational tooling are not published here.
+For product questions, use GitHub issues when the topic can be public. For account, billing, abuse, privacy, or security-sensitive questions, email contact@gencoloring.ai.
